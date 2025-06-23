@@ -1,5 +1,5 @@
 # Email_Security_Gateway
-Email Security Gateway - Malware, Spam &amp; Spoof Filtering, Phishing Detection, Data Loss Prevention and Encryption
+Email Security Gateway - Malware, Spam &amp; Spoof Filtering, Phishing Detection, Data Loss Prevention and Encryption.
 This project is a prototype of an Email Security Gateway, designed to protect an SMTP server by filtering and inspecting email traffic based on threat intelligence. Acting as a proxy, the gateway secures both inbound and outbound emails, protecting against phishing, spam, spoofing, and preventing the leakage of sensitive information. Moreover, the gateway inspects incoming emails and checks for DKIM, DMARC and SPF checks and blocks any suspicious emails from reaching the user.
 
 Table of Contents
