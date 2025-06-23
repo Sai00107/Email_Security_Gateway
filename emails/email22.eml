@@ -1,0 +1,16 @@
+Content-Type: multipart/mixed; boundary="===============5837317438230000242=="
+MIME-Version: 1.0
+To: sam.williamsbsi@gmail.com
+From: alice.williamsbsi@gmail.com
+Subject: Reimbursement Request 
+Date: Tuesday, 03 Sep 2024 12:39:34 -0000
+X-Action-Status: pending
+X-Type: normal
+
+--===============5837317438230000242==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hello,       Kindly reimburse the amount to my debit card:       Card Number: 9876 5432 1098 7654       Regards,       Alice
+--===============5837317438230000242==--

@@ -1,0 +1,16 @@
+Content-Type: multipart/mixed; boundary="===============3284614806638740454=="
+MIME-Version: 1.0
+To: sam.williamsbsi@gmail.com
+From: john.rogersbsi@gmail.com
+Subject: Payment Details  
+Date: Tuesday, 03 Sep 2024 12:39:34 -0000
+X-Action-Status: pending
+X-Type: normal
+
+--===============3284614806638740454==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+
+Hi,       Please process the payment with the following credit card:       Card Number: 1234 5678 9123 4567       Expiry: 12/25       Thanks,       John
+--===============3284614806638740454==--
